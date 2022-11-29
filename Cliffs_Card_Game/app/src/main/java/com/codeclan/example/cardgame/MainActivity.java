@@ -17,8 +17,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    DatabaseManager dbManager;
-
     Hand hand1 = new Hand();
     Hand hand2 = new Hand();
 
